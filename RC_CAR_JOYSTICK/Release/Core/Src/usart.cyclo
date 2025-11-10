@@ -1,0 +1,9 @@
+../Core/Src/usart.c:33:6:UART_Init	1
+../Core/Src/usart.c:74:6:HC05_SendATCommand	1
+../Core/Src/usart.c:55:6:HC05_BindToHC06	1
+../Core/Src/usart.c:113:6:UART_ProcessCommand	7
+../Core/Src/usart.c:39:6:HAL_UART_RxCpltCallback	3
+../Core/Src/usart.c:134:6:MX_USART1_UART_Init	2
+../Core/Src/usart.c:163:6:MX_USART2_UART_Init	2
+../Core/Src/usart.c:191:6:HAL_UART_MspInit	3
+../Core/Src/usart.c:251:6:HAL_UART_MspDeInit	3

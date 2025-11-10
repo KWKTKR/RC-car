@@ -1,0 +1,3 @@
+../Core/Src/joystick.c:31:17:readADC	1
+../Core/Src/joystick.c:19:6:sendcommand	1
+../Core/Src/joystick.c:47:6:loopJoystick	5
